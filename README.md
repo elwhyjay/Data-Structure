@@ -1,13 +1,14 @@
 # Data-Structure
-for studying
--------------------------------------------
+for studying,review
+
 Graph
 -------------------------------------------
 Tree
+-------------------------------------------
   binary tree
   balanced binary tree
--------------------------------------------
+
 List
-  Double Linked List (xor)
-  
 -------------------------------------------
+  Double Linked List (xor)
+
