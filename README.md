@@ -5,7 +5,7 @@ Graph
 -------------------------------------------
 Tree
 -------------------------------------------
-  binary tree
+  binary tree  
   balanced binary tree
 
 List
@@ -14,5 +14,5 @@ List
 
 String
 -------------------------------------------
-  String to hexadecimal data
+  String to hexadecimal data  
   hexadecimal to String
