@@ -12,3 +12,7 @@ List
 -------------------------------------------
   Double Linked List (xor)
 
+String
+-------------------------------------------
+  String to hexadecimal data
+  hexadecimal to String
